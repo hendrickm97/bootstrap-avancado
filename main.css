@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.titulo {
+  margin-top: 32px;
+}
+
+.titulo h1 {
+  text-align: center;
+}
+
+img {
+  max-height: 500px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.card {
+  margin-top: 20px;
+  max-width: 90%;
+}
+
+.navbar h1 {
+  color: white;
+  padding-left: 32px;
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(26, 25, 25);
+  color: white;
+  margin-top: 16px;
+}
